@@ -108,3 +108,4 @@ I’m open to:
 > “Frontend is not just about looks — it’s about performance, accessibility, and user delight.”
 
 ---
+
